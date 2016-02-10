@@ -16,6 +16,7 @@ Now start your game in the emulator, fire up the bot and start playing!
 
 # Referenced libraries
 Ruben Bermudez' TelegramBot: https://github.com/rubenlagus/TelegramBots
+
 SQLite (Version 3.8.7 and higher)
 
 # Commands
