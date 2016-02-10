@@ -9,16 +9,16 @@ import java.util.HashMap;
  */
 
 public class BotConfig {
-    public static final String TOKEN = "155730106:AAGY1x2ow1mUIIG2Xp1AOfX4GfTnp04BXNk";
-    public static final String USERNAME = "PocketDewdes";
+    public static final String TOKEN = "INSERTHERE";
+    public static final String USERNAME = "INSERTHERE";
     /**
      * The nickname to add the bot with, e.g. @botfather
      */
-    public static final String ADDRESS = "dewdebot";
+    public static final String ADDRESS = "INSERTHERE";
     /**
      * If the bot receives this command, it will shut down
      */
-    private static final String KILLCOMMAND = "bjisawesome";
+    private static final String KILLCOMMAND = "INSERTHERE";
     
     /**
      * coordinates of the screen, starting at the upper left point
